@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cguerrero23
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber security [Ethical Hacker]
+- 🌱 I’m currently practice hacking with hackthebox
+- 💞️ I’m looking to collaborate with other Ethical Hacker learning more about it
 - 📫 How to reach me ...
 
 <!---
